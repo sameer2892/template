@@ -15,6 +15,8 @@ env/
 build/
 develop-eggs/
 dist/
+
+
 downloads/
 eggs/
 .eggs/
@@ -95,3 +97,5 @@ bash_file.sh
 logs/*
 dump.py
 dump_sla.py
+
+*.sqlite3
